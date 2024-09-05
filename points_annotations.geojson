@@ -1,0 +1,118 @@
+{
+	"type": "FeatureCollection",
+	"name": "points_annotations",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 104,
+				"Name": "Shop1",
+				"height": null,
+				"use": "Store",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.850912895493934, 18.53361632545203]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 105,
+				"Name": "RestRoom1",
+				"height": null,
+				"use": "Toilet",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.850964778571182, 18.533413114356577]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 118,
+				"Name": "TicketCounter1",
+				"height": "",
+				"use": "TicketCounter",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.851399613337051, 18.532378231492846]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 125,
+				"Name": "Subway1",
+				"height": "0",
+				"use": "Subway",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.851857334115138, 18.531856239246935]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 134,
+				"Name": "Water Basin",
+				"height": null,
+				"use": "Corridor Point",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.851612156697612, 18.532646731320707]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 137,
+				"Name": "Shop2",
+				"height": null,
+				"use": "Store",
+				"level": 0.0,
+				"base_heigh": null,
+				"color": null,
+				"names": null,
+				"block": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.851472704021944, 18.532872304617801]
+			}
+		}
+	]
+}
